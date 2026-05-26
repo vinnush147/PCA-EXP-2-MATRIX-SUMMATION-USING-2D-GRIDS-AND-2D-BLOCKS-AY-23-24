@@ -293,7 +293,8 @@ CHECK(cudaDeviceSynchronize());
 
 ## OUTPUT:
 
-![alt text](image.png)
+<img width="908" height="193" alt="image" src="https://github.com/user-attachments/assets/fe0d5956-c2b5-4f29-ade0-f525b15f3505" />
+
 
 ## RESULT:
 The host took 0.878508 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.013657 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
